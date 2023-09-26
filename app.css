@@ -1,0 +1,9 @@
+body {
+    background-color: blue;
+}
+
+.list-group-horizontal {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
